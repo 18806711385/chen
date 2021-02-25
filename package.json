@@ -1,5 +1,5 @@
 {
-    "name": "dadonggua",
+    "name": "chen",
     "version": "1.0.0",
     "description": "sign everything",
     "main": "Ponysitters_Club_Season.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dongguaku/dadonghua.git"
+        "url": "git+https://github.com/18806711385/chen.git"
     },
     "keywords": [
         "sign"
@@ -16,9 +16,9 @@
     "author": "canghaiyishengxiao2021",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/dongguaku/dadonghua/issues"
+        "url": "https://github.com/18806711385/chen/issues"
     },
-    "homepage": "https://github.com/dongguaku/dadonghua#readme",
+    "homepage": "https://github.com/18806711385/chen#readme",
     "dependencies": {
         "download": "^8.0.0",
         "request": "^2.88.2",
