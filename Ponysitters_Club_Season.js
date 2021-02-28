@@ -114,18 +114,11 @@ async function executeOneByOne() {
           console.log('发送结果完毕');
           
           
-  } else if (SyncUrl.indexOf('jd_get_share_code')>0) 
-  {
-     console.log(rcontent);
-       } 
- else    
-
-  {
+  } else {
          
        console.log(hideme(rcontent));
 //console.log(rcontent);
      }
-       
     }
 }
 
