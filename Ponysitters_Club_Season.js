@@ -61,7 +61,13 @@ let MHShareCodes=[""];//京东盲盒
 let ZDShareCodes=[""];//种豆
 let ASShareCodes=[""];//签到领现金
 
-
+NCShareCodes=["d15e512d5c3a438abd512296319e74e3","1cddd0c55060448c88c3a5dca3ab8534","24a2f3e879b5479aaa5d3692bc11e3fb","cd5f4b1d586945deaccdff8b29b70e8e","080001aec82240c6b190d6debd5c5e4b"];//京东农厂
+JCShareCodes=["U2gVSkMZzx3Ssdtu5-RT9Q==","nwSm7vH-89rKUd4xyJwlnw==","V7Baukoe-bz_K6-CocUUJQ==","rO0Be61ISeeMVCohjA-w-Q==","SxCDekXMO0C1kpi_RDy9GTGyXWGuXWn01gcvYr_Vbio="];//惊喜工厂
+DCShareCodes=["T012v_51QR4c913fCjVWnYaS5kRrbA","T015v_9wRBsfhCWrSGICjVWnYaS5kRrbA","T0205KkcHHhKlCOCQHq08I1qCjVWnYaS5kRrbA","T028aEXSlJWFLdt_9rZNQ0mKoXv8h_HfCjVWnYaS5kRrbA","T0225KkcRBsb_FfRJxKll_AKIQCjVWnYaS5kRrbA"];//东东工厂
+MCShareCodes=["MTE1NDQ5MzYwMDAwMDAwNDM4ODI2NjU=","MTE1NDQ5MzYwMDAwMDAwNDQxNDAxMTk=","MTE1NDUwMTI0MDAwMDAwMDQ2NDAyNDA5","MTE1NDUwMTI0MDAwMDAwMDQ0MjczNjc5","MTE1NDQ5OTIwMDAwMDAwNDU0NjQ0NTU="];//萌宠
+MHShareCodes=["T012v_51QR4c913fCjVQmoaT5kRrbA","T015v_9wRBsfhCWrSGICjVQmoaT5kRrbA","T0205KkcHHhKlCOCQHq08I1qCjVQmoaT5kRrbA","T028aEXSlJWFLdt_9rZNQ0mKoXv8h_HfCjVQmoaT5kRrbA","T0225KkcRBsb_FfRJxKll_AKIQCjVQmoaT5kRrbA"];//京东盲盒
+ZDShareCodes=["eur363ugt2c55vmwvoudqmjg7q","j3lstsvowsuavohuyrpsjyskfi","itplnhngh2a7eevwbojavkaylojerhcuskjhzny","annyyaz5tqotrtz24jls2p5w2maj6kwchvcmxezqkdrihqdnuyca","e7lhibzb3zek3xxzz3s4u2yhlqc47p3tr4lrrea"];//种豆
+ASShareCodes=["Ihgxbey3ZPUu","Ihk0aOm0F41amRY","9aOWuGcuvnOOJ8JsHM2TA_BdsnP7","eU9YaOmwb_8g9maEyHQTgw"];//签到领现金
 
 //格式["AA","BB","CC"]
 
